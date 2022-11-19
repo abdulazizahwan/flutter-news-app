@@ -406,8 +406,8 @@ class HomeScreen extends StatelessWidget {
                                 fontSize: SizeConfig.blockSizeHorizontal! * 3.5,
                               ),
                             ),
-                            const SizedBox(
-                              height: 9,
+                            SizedBox(
+                              height: SizeConfig.blockSizeHorizontal! * 0.4,
                             ),
                             Row(
                               children: [
