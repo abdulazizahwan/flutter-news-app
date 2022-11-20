@@ -15,6 +15,7 @@ This course is designed for beginner to intermediate developers who want to buil
 ## Watch it on YouTube
 
 - PART 1 => [Watch it on YouTube](https://youtu.be/sTVGTbGW_uw)
+- PART 2 => [Watch it on YouTube](https://youtu.be/DTeBHZtqpxs)
 
 **Support Me**
 
@@ -28,6 +29,7 @@ This course is designed for beginner to intermediate developers who want to buil
 
 - google_fonts: [get package](https://pub.dev/packages/google_fonts)
 - flutter_svg: [get package](https://pub.dev/packages/flutter_svg)
+- carousel_slider: [get package](https://pub.dev/packages/carousel_slider)
 
 **Code Credit**
 
