@@ -16,6 +16,7 @@ This course is designed for beginner to intermediate developers who want to buil
 
 - PART 1 => [Watch it on YouTube](https://youtu.be/sTVGTbGW_uw)
 - PART 2 => [Watch it on YouTube](https://youtu.be/DTeBHZtqpxs)
+- PART 3 => [Watch it on YouTube](https://youtu.be/Ig35nJGluDk)
 
 **Support Me**
 
